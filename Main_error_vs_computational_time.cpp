@@ -1,4 +1,4 @@
-#include "Binomial Option Pricing(class).cpp"
+#include "Binomial Option Pricing.cpp"
 #include "Trinomial Option Pricing.cpp"
 #include <iostream>
 #include <iomanip>
